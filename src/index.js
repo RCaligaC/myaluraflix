@@ -1,10 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './reset.css'
+import AppRoutes from './routes';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <h1>AluraFlix</h1>
+    <AppRoutes />
   </React.StrictMode>
 );
