@@ -9,6 +9,7 @@
   --color-primary: #2a7ae4;
   --color-gray: #53585d;
   --color-black: #000;
+  --color-black-dark: rgba(0, 0, 0, 0.90);
 
   color-scheme: light dark;
   font-family: var(--font);
