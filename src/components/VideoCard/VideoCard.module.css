@@ -1,0 +1,17 @@
+.videoCard {
+    width: 460px;
+    height: 260.85px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    border-radius: 5px;
+    border: 2px solid var(--color-frontend);
+}
+
+@media screen and (max-width: 325px ) {
+   /*  .videoCard {
+        max-width: 325px ;
+    } */
+}

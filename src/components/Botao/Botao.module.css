@@ -17,7 +17,13 @@
     text-align: center;
 
     border-radius: 4px;
-    border: 1px solid var(--color-gray-light);
+    border: 2px solid var(--color-primary);
     background: var(--color-black-dark);
+    cursor: pointer;
+    transition: all 600ms ease-in-out;
+}
 
+.botao:hover {
+    border: 2px solid var(--color-white);
+    background: linear-gradient(transparent 0%, var(--color-white) 300%);
 }

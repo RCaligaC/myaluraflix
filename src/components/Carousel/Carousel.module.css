@@ -1,0 +1,50 @@
+.container {
+    height: 350px;
+    flex-shrink: 0;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.galleryContainer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-shrink: 0;
+    overflow-x: auto;
+    
+    margin-top: 16px;
+
+    border-radius: 5px;
+    border: 1px solid var(--color-frontend);
+    
+}
+
+.gallery {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 15px;
+    flex-shrink: 0;
+
+}
+
+
+.videoCard {
+    flex-shrink: 0;
+}
+
+
+.container .setaDireita {
+    width: 24px;
+    height: 24px;
+}
+
+.container .setaEsquerda {
+    width: 24px;
+    height: 24px;
+}
+
+@media screen and (max-width: 325px ) {
+    .container {
+        max-width: 325px;
+    }
+}

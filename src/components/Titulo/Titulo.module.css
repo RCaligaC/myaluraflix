@@ -1,0 +1,50 @@
+.titulo h1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 296px;
+    height: 92px;
+    margin-top: 250px;
+    margin-left: 12px;
+    flex-shrink: 0;
+
+    color: var(--color-gray-light);
+    text-align: center;
+
+    font-family: Roboto;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    border-radius: 4px;
+    background: var(--color-primary);
+}
+
+.titulo p {
+    width: 450px;
+    height: 50px;
+    flex-shrink: 0;
+    margin-top: 16px;
+    margin-left: 12px;
+    color: var(--color-gray-light);
+
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.titulo .descricao {
+    width: 450px;
+    margin-top: 32px;
+    text-align: justify;
+    color: var(--color-gray-light);
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}

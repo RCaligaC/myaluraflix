@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "titulo": "Introdução Método Básico",
+        "urlImagem": "https://i.ytimg.com/vi/5Ohd4DtdUvo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCW5AiOdaE4aTgWKdO64vgnIp_H6Q",
+        "urlVideo": "https://www.youtube.com/embed/watch?v=5Ohd4DtdUvo&list=PLm6BV626ZnNIylC56ikwrsRCxi9fgCsM2&index=1&t=1s",
+        "categoria": "Básico",
+        "descricao": "Esta é a primeira aula para resolvermos o Cubo Mágico com o método básico. Uma introdução importantíssima antes se seguirmos para os próximos vídeos. Assista tudo com bastante calma e, qualquer dúvida, deixe um comentário!"
+    },
+
+    {
+        "id": "2",
+        "titulo": "Passo 1, preparar a cruz",
+        "urlImagem": "https://i.ytimg.com/vi/CNHOWsQes7w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDIkb2Cm8glD5tUNYOVr0RkkUhpgA",
+        "urlVideo": "https://www.youtube.com/embed/watch?v=CNHOWsQes7w&list=PLm6BV626ZnNIylC56ikwrsRCxi9fgCsM2&index=2",
+        "categoria": "Básico",
+        "descricao": "Objetivo do primeiro passo é preparar a cruz do branco, ou seja, posicionar 4 meios brancos ao redor do centro amarelo. "
+    },
+
+    {
+        "id": "3",
+        "titulo": "Passo 2, finalizar a cruz",
+        "urlImagem": "https://i.ytimg.com/vi/jVciPHWqIpQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCy2SH3_uCvF0U_GhXxFUuWM-EtbQ",
+        "urlVideo": "https://www.youtube.com/embed/watch?v=jVciPHWqIpQ&list=PLm6BV626ZnNIylC56ikwrsRCxi9fgCsM2&index=3",
+        "categoria": "Básico",
+        "descricao": "Este é o passo mais simples da solução. Nós vamos levar todos os meios brancos que preparamos ao redor do centro amarelo para a base do cubo, ao redor do centro branco, finalizando assim a cruz inicial."
+    },
+
+    {
+        "id": "4",
+        "titulo": "Passo 3, primeira camada",
+        "urlImagem": "https://i.ytimg.com/vi/tpnbwqHFyCw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNMjs4SAZYeNWVH0UlYbPR8t_N4g",
+        "urlVideo": "https://www.youtube.com/watch?v=tpnbwqHFyCw&list=PLm6BV626ZnNIylC56ikwrsRCxi9fgCsM2&index=4",
+        "categoria": "Básico",
+        "descricao": "Agora nós vamos finalizar toda a camada branca, ou seja, montar as 4 quinas brancas na base do cubo ao redor da cruz que fizemos no passo 2."
+    },
+
+    {
+        "id": "5",
+        "titulo": "Aprenda o Método Avançado",
+        "urlImagem": "https://i.ytimg.com/vi/hm2l9CHmhnQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBfrCvpqrel4NUbZ6SCapZuvBEedA",
+        "urlVideo": "https://youtu.be/embed/hm2l9CHmhnQ?list=PLuHlH_QSE_48cMzPG82hnjomNNiClppTC",
+        "categoria": "Avançado",
+        "descricao": "O método CFOP no cubo 3x3 nada mais é que uma grande otimização do método de camadas, com mais complexidade e 119 algoritmos."
+    },
+
+    {
+        "id": "6",
+        "titulo": "Tutorial definitivo de F2L INTUITIVO",
+        "urlImagem": "https://i.ytimg.com/vi/UaPKIYVn0zo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWkxVhCvgpw-BQdtm5DKFhzqmI8Q",
+        "urlVideo": "https://youtu.be/embed/UaPKIYVn0zo?list=PLuHlH_QSE_48cMzPG82hnjomNNiClppTC",
+        "categoria": "Avançado",
+        "descricao": "O F2l intuitivo reduz qualquer par de f2l a somente 2 casos básicos, o pesca e o par. Assim você não precisa aprender novos algoritmos e consegue melhorar sua resolução enquanto se acostuma com o f2l."
+    },
+
+    {
+        "id": "7",
+        "titulo": "Aprenda TODOS os casos de F2L",
+        "urlImagem": "https://i.ytimg.com/vi/BfGtsl_Rvsw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBvlJXlowlOULy8xxgWveKYVLExAQ",
+        "urlVideo": "https://youtu.be/embed/BfGtsl_Rvsw?list=PLuHlH_QSE_48cMzPG82hnjomNNiClppTC",
+        "categoria": "Avançado",
+        "descricao": "Desvende todos os casos de F2L no cubo mágico e consiga melhorar seus tempos de resoluções consideravélmente!"
+    },
+
+    {
+        "id": "8",
+        "titulo": "Aprenda PLL de vez - Melhores Algoritmos",
+        "urlImagem": "https://i.ytimg.com/vi/vFjbaiIAUt0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA2nSSExz2pldIPyhYwUkH9ew2_Mw",
+        "urlVideo": "https://youtu.be/embed/vFjbaiIAUt0?list=PLuHlH_QSE_48cMzPG82hnjomNNiClppTC",
+        "categoria": "Avançado",
+        "descricao": "A PLL (permutação da última camada) é a última etapa da resolução do cubo mágico, e no método avançado Fridrich/CFOP a PLL têm 21 casos possíveis, cada um com seus algoritmos e fingertricks."
+    }
+
+]
