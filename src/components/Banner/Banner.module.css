@@ -22,3 +22,11 @@
 .link {
     text-decoration: none;
 }
+
+.caixaBanner {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 100px;
+    gap: 200px;
+}

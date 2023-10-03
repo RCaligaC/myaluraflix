@@ -3,7 +3,7 @@
         "id": "1",
         "titulo": "Introdução Método Básico",
         "urlImagem": "https://i.ytimg.com/vi/5Ohd4DtdUvo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCW5AiOdaE4aTgWKdO64vgnIp_H6Q",
-        "urlVideo": "https://www.youtube.com/embed/watch?v=5Ohd4DtdUvo&list=PLm6BV626ZnNIylC56ikwrsRCxi9fgCsM2&index=1&t=1s",
+        "urlVideo": "https://www.youtube.com/watch?v=5Ohd4DtdUvo&list=PLm6BV626ZnNIylC56ikwrsRCxi9fgCsM2&index=1&t=1s",
         "categoria": "Básico",
         "descricao": "Esta é a primeira aula para resolvermos o Cubo Mágico com o método básico. Uma introdução importantíssima antes se seguirmos para os próximos vídeos. Assista tudo com bastante calma e, qualquer dúvida, deixe um comentário!"
     },
@@ -74,8 +74,8 @@
     {
         "id": "9",
         "titulo": "Aprenda o Método ZZ 1/4",
-        "urlImagem": "https://i.ytimg.com/an_webp/zuTCtriu5_I/mqdefault_6s.webp?du=3000&sqp=CN7r76gG&rs=AOn4CLBPXT80OTGvmZCqjtFTwjResygnaQ",
-        "urlVideo": "https://www.youtube.com/embed/watch?v=zuTCtriu5_I",
+        "urlImagem": "https://i.ytimg.com/vi/zuTCtriu5_I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAn7RfWPBkJUnI3wJ1FAW0UmPxR9g",
+        "urlVideo": "https://www.youtube.com/embed/watch?v=zuTCtriu5_I&list=PLFhwle3piJ-HZDiFLVyEtIbHG7-bE0K2U&index=1&t=3s",
         "categoria": "ZZ",
         "descricao": "Esse método é ótimo para resolver com uma mão e parece muito bom para resolver com os pés também."
     },
@@ -83,8 +83,8 @@
     {
         "id": "10",
         "titulo": "Aprenda o Método ZZ 2/4",
-        "urlImagem": "https://i.ytimg.com/an_webp/dF_-mtvCBPc/mqdefault_6s.webp?du=3000&sqp=CJDL76gG&rs=AOn4CLBov9AhVw6E4FhufzWH-Hlh1yMpWA",
-        "urlVideo": "https://www.youtube.com/embed/watch?v=G4Al4lGWGa0&t=99s",
+        "urlImagem": "https://i.ytimg.com/vi/G4Al4lGWGa0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCxVccEEXJIGMrw9-H6x_oaKAmRQ",
+        "urlVideo": "https://www.youtube.com/embed/watch?v=G4Al4lGWGa0&list=PLFhwle3piJ-HZDiFLVyEtIbHG7-bE0K2U&index=2&t=9s",
         "categoria": "ZZ",
         "descricao": "Esse método é ótimo para resolver com uma mão e parece muito bom para resolver com os pés também."
     },
@@ -92,8 +92,8 @@
     {
         "id": "11",
         "titulo": "Aprenda o Método ZZ 3/4",
-        "urlImagem": "https://i.ytimg.com/an_webp/dF_-mtvCBPc/mqdefault_6s.webp?du=3000&sqp=CJDL76gG&rs=AOn4CLBov9AhVw6E4FhufzWH-Hlh1yMpWA",
-        "urlVideo": "https://www.youtube.com/embed/watch?v=dF_-mtvCBPc&t=117s",
+        "urlImagem": "https://i.ytimg.com/vi/dF_-mtvCBPc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYFDaRNwe3HM6rb-aNRkcbNl5Haw",
+        "urlVideo": "https://www.youtube.com/embed/watch?v=dF_-mtvCBPc&list=PLFhwle3piJ-HZDiFLVyEtIbHG7-bE0K2U&index=3&t=118s",
         "categoria": "ZZ",
         "descricao": "Esse método é ótimo para resolver com uma mão e parece muito bom para resolver com os pés também."
     },
@@ -101,8 +101,8 @@
     {
         "id": "12",
         "titulo": "Aprenda o Método ZZ 4/4",
-        "urlImagem": "https://i.ytimg.com/an_webp/zuTCtriu5_I/mqdefault_6s.webp?du=3000&sqp=CN7r76gG&rs=AOn4CLBPXT80OTGvmZCqjtFTwjResygnaQ",
-        "urlVideo": "https://www.youtube.com/embed/watch?v=ByriVVBhPXg",
+        "urlImagem": "https://i.ytimg.com/vi/ByriVVBhPXg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJ_18hDT78asDPiDzNX4aOiAlITg",
+        "urlVideo": "https://www.youtube.com/embed/watch?v=ByriVVBhPXg&list=PLFhwle3piJ-HZDiFLVyEtIbHG7-bE0K2U&index=4&t=1s",
         "categoria": "ZZ",
         "descricao": "Esse método é ótimo para resolver com uma mão e parece muito bom para resolver com os pés também."
     }
