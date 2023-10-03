@@ -35,21 +35,3 @@
     font-weight: 300;
     line-height: normal;
 }
-
-@media screen and (max-width: 325px ) {
-    .titulo {
-        display: inline;
-    }
-
-    .titulo h2 {
-        width: 85px;
-        height: 33px;
-        font-size: 16px;
-    }
-
-    .titulo p {
-        max-width: 325px;
-        font-size: 12px;
-        margin-left: 0;
-    }
-}

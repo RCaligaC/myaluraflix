@@ -10,6 +10,7 @@ function Home() {
             <main className={styles.conteudoPrincipal}>
                 <Carousel titulo="Básico" texto="Aprenda o Método Básico"/>
                 <Carousel titulo="Avançado" texto="Aprenda o Método CFOP (Fridrich)"/>
+                <Carousel titulo="ZZ" texto="Aprenda o Método ZZ partes 1 / 2 / 3 / 4 "/>
             </main>
             
         </>

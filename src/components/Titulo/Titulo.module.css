@@ -10,7 +10,6 @@
     flex-shrink: 0;
 
     color: var(--color-gray-light);
-    text-align: center;
 
     font-family: Roboto;
     font-size: 50px;
@@ -23,27 +22,27 @@
 }
 
 .titulo p {
-    width: 450px;
+    width: 500px;
     height: 50px;
     flex-shrink: 0;
     margin-top: 16px;
     margin-left: 12px;
     color: var(--color-gray-light);
-
+    text-align: start;
     font-family: Roboto;
-    font-size: 24px;
+    font-size: 32px;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     line-height: normal;
 }
 
 .titulo .descricao {
-    width: 450px;
-    margin-top: 32px;
-    text-align: justify;
+    text-align: start;
+    width: 750px;
+    margin-top: 48px;
     color: var(--color-gray-light);
     font-family: Roboto;
-    font-size: 18px;
+    font-size: 24px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;

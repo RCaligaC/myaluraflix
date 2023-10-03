@@ -22,17 +22,3 @@
 .link {
     text-decoration: none;
 }
-
-@media screen and (max-width: 325px ) {
-
-    .banner {
-        height: 179px;
-    }
-    .botao {
-        display: none;
-    }
-
-    .titulo {
-        display: none;
-    }
-}

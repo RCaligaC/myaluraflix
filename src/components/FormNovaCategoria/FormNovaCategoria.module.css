@@ -1,15 +1,7 @@
 .form {
     display: flex;
     flex-direction: column;
-    margin-bottom: 5rem;
-  
-  }
-  .novo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 2rem;
-    font-family: 'Roboto';
+    padding-bottom: 3rem;
   }
   
   .main {
@@ -20,13 +12,12 @@
     align-items: center;
   }
   
-  .novo h1 {
+  .form h1 {
     color: var(--color-gray-light);
     font-size: 3.75rem;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-top: 48px;
   }
   .textField {
     border-radius: 0.25rem;
@@ -34,7 +25,7 @@
     width: 85rem;
     height: 3.125rem;
     flex-shrink: 0;
-    color: var(--color-gray-white);
+    color: var(--color-gray-light);
     font-family: Roboto;
     font-size: 0.75rem;
     font-style: normal;
@@ -46,12 +37,36 @@
     border-radius: 0.25rem;
     background: var(--color-gray);
     flex-shrink: 0;
-    color: var(--color-gray-white);
+    color: var(--color-gray-light);
     font-family: Roboto;
     font-size: 0.75rem;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
+  }
+  
+  .inputColor {
+    width: 100%;
+    border-radius: 0.25rem;
+    background: var(--color-gray);
+    height: 3.125rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    padding: 0.2rem;
+  }
+  .inputColor label {
+    color: var(--color-gray-light);
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+  }
+  
+  .inputColor input {
+    width: 100%;
+    border: none;
+    border-color: var(--color-gray);
   }
   
   .buttons {
@@ -64,24 +79,17 @@
     display: flex;
     gap: 2rem;
   }
-  
-  .buttonsRight {
-    display: flex;
-    justify-content: center;
-  }
 
   .link {
     text-decoration: none;
   }
-
-  @media screen and (max-width: 664px) {
-    .buttonsLeft {
-      flex-wrap: wrap; 
-      margin-left: 0.75rem;
-    }
-
-    .buttonsRight {
-      margin-left: 1rem;
-    }
-
-}
+  
+  @media(max-width: 464px) {
+    .main {
+      display: flex;
+      align-items: center;
+      text-align: center;
+    
+    } 
+   
+  }

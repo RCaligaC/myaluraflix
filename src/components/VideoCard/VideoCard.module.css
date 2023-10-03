@@ -9,9 +9,3 @@
     border-radius: 5px;
     border: 2px solid var(--color-frontend);
 }
-
-@media screen and (max-width: 325px ) {
-   /*  .videoCard {
-        max-width: 325px ;
-    } */
-}
